@@ -37,7 +37,7 @@ ppc-performance-dashboard/
 ├── data_processor.py       # Normalization, KPI, filter, aggregation, comparison engine
 ├── tests/
 │   └── test_data_processor.py
-├── sample_data.csv         # Synthetic demo data (8 weeks, 4 campaigns)
+├── sample_data.csv         # Synthetic demo data (4 weeks, 4 campaigns)
 ├── requirements.txt
 └── .gitignore
 ```
