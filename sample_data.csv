@@ -1,0 +1,225 @@
+Date,Campaign,Ad Group,Impressions,Clicks,Spend,Conversions
+2025-11-03,Search - Brand,Brand - Exact,2624,50,247.75,36
+2025-11-03,Search - Brand,Brand - Phrase,3086,129,100.85,70
+2025-11-03,Search - Generic,Generic - Exact,7712,57,107.14,4
+2025-11-03,Search - Generic,Generic - Broad,4611,542,541.96,4
+2025-11-03,Display - Remarketing,Remarketing - Standard,7673,250,568.02,58
+2025-11-03,Display - Remarketing,Remarketing - Dynamic,906,188,336.43,55
+2025-11-03,Shopping - Product Feed,Shopping - Top Sellers,3347,245,115.06,44
+2025-11-03,Shopping - Product Feed,Shopping - Long Tail,7024,124,808.17,46
+2025-11-04,Search - Brand,Brand - Exact,5133,69,518.69,59
+2025-11-04,Search - Brand,Brand - Phrase,7001,105,791.35,38
+2025-11-04,Search - Generic,Generic - Exact,6725,616,675.25,25
+2025-11-04,Search - Generic,Generic - Broad,1550,258,936.26,38
+2025-11-04,Display - Remarketing,Remarketing - Standard,4614,128,278.52,49
+2025-11-04,Display - Remarketing,Remarketing - Dynamic,6777,191,350.4,48
+2025-11-04,Shopping - Product Feed,Shopping - Top Sellers,5174,688,586.49,10
+2025-11-04,Shopping - Product Feed,Shopping - Long Tail,3603,571,171.96,32
+2025-11-05,Search - Brand,Brand - Exact,7016,301,656.69,29
+2025-11-05,Search - Brand,Brand - Phrase,1716,259,768.69,5
+2025-11-05,Search - Generic,Generic - Exact,7372,299,216.21,9
+2025-11-05,Search - Generic,Generic - Broad,5955,242,387.94,64
+2025-11-05,Display - Remarketing,Remarketing - Standard,8317,171,149.86,34
+2025-11-05,Display - Remarketing,Remarketing - Dynamic,5104,623,854.98,55
+2025-11-05,Shopping - Product Feed,Shopping - Top Sellers,7343,395,947.51,29
+2025-11-05,Shopping - Product Feed,Shopping - Long Tail,3066,546,104.55,64
+2025-11-06,Search - Brand,Brand - Exact,1571,137,603.52,20
+2025-11-06,Search - Brand,Brand - Phrase,7716,635,377.83,9
+2025-11-06,Search - Generic,Generic - Exact,8468,566,923.1,33
+2025-11-06,Search - Generic,Generic - Broad,988,142,718.32,69
+2025-11-06,Display - Remarketing,Remarketing - Standard,6373,139,424.33,38
+2025-11-06,Display - Remarketing,Remarketing - Dynamic,8233,28,923.86,34
+2025-11-06,Shopping - Product Feed,Shopping - Top Sellers,3727,544,829.58,14
+2025-11-06,Shopping - Product Feed,Shopping - Long Tail,5689,679,586.34,65
+2025-11-07,Search - Brand,Brand - Exact,3304,407,521.62,21
+2025-11-07,Search - Brand,Brand - Phrase,809,638,474.4,42
+2025-11-07,Search - Generic,Generic - Exact,2632,396,242.69,40
+2025-11-07,Search - Generic,Generic - Broad,4746,605,99.66,11
+2025-11-07,Display - Remarketing,Remarketing - Standard,8762,95,732.23,69
+2025-11-07,Display - Remarketing,Remarketing - Dynamic,2903,700,900.57,61
+2025-11-07,Shopping - Product Feed,Shopping - Top Sellers,3505,296,831.36,68
+2025-11-07,Shopping - Product Feed,Shopping - Long Tail,7732,241,722.4,70
+2025-11-08,Search - Brand,Brand - Exact,4095,344,945.49,52
+2025-11-08,Search - Brand,Brand - Phrase,6918,473,439.88,67
+2025-11-08,Search - Generic,Generic - Exact,4861,255,334.42,9
+2025-11-08,Search - Generic,Generic - Broad,4570,627,26.69,29
+2025-11-08,Display - Remarketing,Remarketing - Standard,1764,259,862.04,9
+2025-11-08,Display - Remarketing,Remarketing - Dynamic,6213,97,241.34,66
+2025-11-08,Shopping - Product Feed,Shopping - Top Sellers,8753,244,143.05,70
+2025-11-08,Shopping - Product Feed,Shopping - Long Tail,8544,273,770.97,61
+2025-11-09,Search - Brand,Brand - Exact,3919,121,632.85,13
+2025-11-09,Search - Brand,Brand - Phrase,6604,458,454.33,53
+2025-11-09,Search - Generic,Generic - Exact,1687,694,76.37,13
+2025-11-09,Search - Generic,Generic - Broad,6359,136,198.18,32
+2025-11-09,Display - Remarketing,Remarketing - Standard,8150,168,190.64,55
+2025-11-09,Display - Remarketing,Remarketing - Dynamic,8379,280,432.11,10
+2025-11-09,Shopping - Product Feed,Shopping - Top Sellers,2404,76,797.51,70
+2025-11-09,Shopping - Product Feed,Shopping - Long Tail,2328,267,397.97,22
+2025-11-10,Search - Brand,Brand - Exact,8686,243,859.27,52
+2025-11-10,Search - Brand,Brand - Phrase,3497,413,936.34,1
+2025-11-10,Search - Generic,Generic - Exact,5145,490,413.4,37
+2025-11-10,Search - Generic,Generic - Broad,8773,183,295.94,25
+2025-11-10,Display - Remarketing,Remarketing - Standard,1758,618,76.69,70
+2025-11-10,Display - Remarketing,Remarketing - Dynamic,5938,83,563.29,7
+2025-11-10,Shopping - Product Feed,Shopping - Top Sellers,3379,83,94.5,66
+2025-11-10,Shopping - Product Feed,Shopping - Long Tail,3844,95,647.95,9
+2025-11-11,Search - Brand,Brand - Exact,4653,438,895.68,16
+2025-11-11,Search - Brand,Brand - Phrase,4833,617,596.02,6
+2025-11-11,Search - Generic,Generic - Exact,7668,698,314.22,67
+2025-11-11,Search - Generic,Generic - Broad,5072,234,241.98,41
+2025-11-11,Display - Remarketing,Remarketing - Standard,7284,159,445.22,39
+2025-11-11,Display - Remarketing,Remarketing - Dynamic,1988,34,597.68,59
+2025-11-11,Shopping - Product Feed,Shopping - Top Sellers,2438,100,218.23,69
+2025-11-11,Shopping - Product Feed,Shopping - Long Tail,5145,160,839.2,45
+2025-11-12,Search - Brand,Brand - Exact,4802,403,166.7,37
+2025-11-12,Search - Brand,Brand - Phrase,5756,651,27.28,68
+2025-11-12,Search - Generic,Generic - Exact,5705,131,265.95,18
+2025-11-12,Search - Generic,Generic - Broad,2553,591,273.28,20
+2025-11-12,Display - Remarketing,Remarketing - Standard,4250,376,659.37,27
+2025-11-12,Display - Remarketing,Remarketing - Dynamic,5125,542,253.54,63
+2025-11-12,Shopping - Product Feed,Shopping - Top Sellers,1632,119,791.29,55
+2025-11-12,Shopping - Product Feed,Shopping - Long Tail,1522,28,737.14,43
+2025-11-13,Search - Brand,Brand - Exact,5091,190,533.06,57
+2025-11-13,Search - Brand,Brand - Phrase,7807,599,124.04,2
+2025-11-13,Search - Generic,Generic - Exact,3242,583,796.17,5
+2025-11-13,Search - Generic,Generic - Broad,3226,465,58.9,17
+2025-11-13,Display - Remarketing,Remarketing - Standard,6774,65,215.37,46
+2025-11-13,Display - Remarketing,Remarketing - Dynamic,4888,130,745.51,46
+2025-11-13,Shopping - Product Feed,Shopping - Top Sellers,7458,660,880.96,20
+2025-11-13,Shopping - Product Feed,Shopping - Long Tail,4678,191,839.72,23
+2025-11-14,Search - Brand,Brand - Exact,1206,208,747.62,43
+2025-11-14,Search - Brand,Brand - Phrase,7545,279,168.05,35
+2025-11-14,Search - Generic,Generic - Exact,2571,416,818.49,5
+2025-11-14,Search - Generic,Generic - Broad,4444,229,345.18,59
+2025-11-14,Display - Remarketing,Remarketing - Standard,4528,253,633.83,4
+2025-11-14,Display - Remarketing,Remarketing - Dynamic,7328,361,823.85,36
+2025-11-14,Shopping - Product Feed,Shopping - Top Sellers,5373,384,391.7,66
+2025-11-14,Shopping - Product Feed,Shopping - Long Tail,6225,53,835.65,15
+2025-11-15,Search - Brand,Brand - Exact,5079,207,55.58,34
+2025-11-15,Search - Brand,Brand - Phrase,7919,378,425.85,41
+2025-11-15,Search - Generic,Generic - Exact,2694,419,256.89,25
+2025-11-15,Search - Generic,Generic - Broad,7944,26,880.78,67
+2025-11-15,Display - Remarketing,Remarketing - Standard,4028,397,85.08,56
+2025-11-15,Display - Remarketing,Remarketing - Dynamic,6209,663,636.95,41
+2025-11-15,Shopping - Product Feed,Shopping - Top Sellers,2841,332,307.63,65
+2025-11-15,Shopping - Product Feed,Shopping - Long Tail,7491,359,668.4,52
+2025-11-16,Search - Brand,Brand - Exact,2885,221,638.38,54
+2025-11-16,Search - Brand,Brand - Phrase,7011,203,397.65,39
+2025-11-16,Search - Generic,Generic - Exact,806,336,215.47,37
+2025-11-16,Search - Generic,Generic - Broad,6079,501,431.21,57
+2025-11-16,Display - Remarketing,Remarketing - Standard,4301,548,758.17,61
+2025-11-16,Display - Remarketing,Remarketing - Dynamic,3580,699,283.92,11
+2025-11-16,Shopping - Product Feed,Shopping - Top Sellers,6291,120,645.7,31
+2025-11-16,Shopping - Product Feed,Shopping - Long Tail,4480,228,42.72,19
+2025-11-17,Search - Brand,Brand - Exact,4811,511,443.54,10
+2025-11-17,Search - Brand,Brand - Phrase,3985,418,391.68,64
+2025-11-17,Search - Generic,Generic - Exact,3217,696,850.17,1
+2025-11-17,Search - Generic,Generic - Broad,2546,460,183.57,29
+2025-11-17,Display - Remarketing,Remarketing - Standard,8411,76,873.25,32
+2025-11-17,Display - Remarketing,Remarketing - Dynamic,2788,492,765.32,18
+2025-11-17,Shopping - Product Feed,Shopping - Top Sellers,5998,478,416.87,65
+2025-11-17,Shopping - Product Feed,Shopping - Long Tail,8105,187,438.56,61
+2025-11-18,Search - Brand,Brand - Exact,4850,677,732.21,36
+2025-11-18,Search - Brand,Brand - Phrase,8739,666,275.38,31
+2025-11-18,Search - Generic,Generic - Exact,2069,317,272.7,31
+2025-11-18,Search - Generic,Generic - Broad,6038,578,148.69,11
+2025-11-18,Display - Remarketing,Remarketing - Standard,4588,417,676.97,20
+2025-11-18,Display - Remarketing,Remarketing - Dynamic,1852,449,327.72,53
+2025-11-18,Shopping - Product Feed,Shopping - Top Sellers,8433,450,212.36,8
+2025-11-18,Shopping - Product Feed,Shopping - Long Tail,7683,423,816.76,3
+2025-11-19,Search - Brand,Brand - Exact,7032,513,896.75,1
+2025-11-19,Search - Brand,Brand - Phrase,5692,424,520.55,54
+2025-11-19,Search - Generic,Generic - Exact,4413,524,273.83,29
+2025-11-19,Search - Generic,Generic - Broad,8756,54,332.6,50
+2025-11-19,Display - Remarketing,Remarketing - Standard,7424,194,875.17,60
+2025-11-19,Display - Remarketing,Remarketing - Dynamic,1241,428,98.07,4
+2025-11-19,Shopping - Product Feed,Shopping - Top Sellers,7822,163,189.01,60
+2025-11-19,Shopping - Product Feed,Shopping - Long Tail,5062,413,216.84,42
+2025-11-20,Search - Brand,Brand - Exact,6155,370,278.78,49
+2025-11-20,Search - Brand,Brand - Phrase,7706,283,457.39,11
+2025-11-20,Search - Generic,Generic - Exact,1653,383,624.63,29
+2025-11-20,Search - Generic,Generic - Broad,1459,56,205.41,32
+2025-11-20,Display - Remarketing,Remarketing - Standard,1133,661,241.85,20
+2025-11-20,Display - Remarketing,Remarketing - Dynamic,8558,142,452.48,28
+2025-11-20,Shopping - Product Feed,Shopping - Top Sellers,4998,402,583.48,22
+2025-11-20,Shopping - Product Feed,Shopping - Long Tail,2676,192,120.53,40
+2025-11-21,Search - Brand,Brand - Exact,1220,344,388.89,49
+2025-11-21,Search - Brand,Brand - Phrase,4049,102,114.77,32
+2025-11-21,Search - Generic,Generic - Exact,5741,639,760.49,16
+2025-11-21,Search - Generic,Generic - Broad,1472,380,418.39,69
+2025-11-21,Display - Remarketing,Remarketing - Standard,6871,95,622.22,65
+2025-11-21,Display - Remarketing,Remarketing - Dynamic,1007,455,118.15,63
+2025-11-21,Shopping - Product Feed,Shopping - Top Sellers,6734,675,677.8,59
+2025-11-21,Shopping - Product Feed,Shopping - Long Tail,7935,205,917.89,67
+2025-11-22,Search - Brand,Brand - Exact,5225,655,740.42,69
+2025-11-22,Search - Brand,Brand - Phrase,8416,471,319.74,35
+2025-11-22,Search - Generic,Generic - Exact,4822,113,839.92,36
+2025-11-22,Search - Generic,Generic - Broad,4795,500,332.85,49
+2025-11-22,Display - Remarketing,Remarketing - Standard,8898,357,473.42,24
+2025-11-22,Display - Remarketing,Remarketing - Dynamic,6613,289,280.08,44
+2025-11-22,Shopping - Product Feed,Shopping - Top Sellers,5326,594,500.46,2
+2025-11-22,Shopping - Product Feed,Shopping - Long Tail,3930,112,689.67,31
+2025-11-23,Search - Brand,Brand - Exact,8804,593,662.27,31
+2025-11-23,Search - Brand,Brand - Phrase,8841,483,106.54,3
+2025-11-23,Search - Generic,Generic - Exact,4430,439,304.77,32
+2025-11-23,Search - Generic,Generic - Broad,6846,509,339.69,68
+2025-11-23,Display - Remarketing,Remarketing - Standard,6219,385,271.95,59
+2025-11-23,Display - Remarketing,Remarketing - Dynamic,4918,261,690.79,16
+2025-11-23,Shopping - Product Feed,Shopping - Top Sellers,5969,147,904.32,69
+2025-11-23,Shopping - Product Feed,Shopping - Long Tail,3833,221,706.9,28
+2025-11-24,Search - Brand,Brand - Exact,5330,628,575.02,68
+2025-11-24,Search - Brand,Brand - Phrase,2447,223,231.56,38
+2025-11-24,Search - Generic,Generic - Exact,3739,334,678.46,2
+2025-11-24,Search - Generic,Generic - Broad,2873,305,926.09,6
+2025-11-24,Display - Remarketing,Remarketing - Standard,5586,154,115.41,63
+2025-11-24,Display - Remarketing,Remarketing - Dynamic,1000,612,456.54,37
+2025-11-24,Shopping - Product Feed,Shopping - Top Sellers,8016,373,917.91,24
+2025-11-24,Shopping - Product Feed,Shopping - Long Tail,4936,514,784.57,15
+2025-11-25,Search - Brand,Brand - Exact,7365,528,556.63,10
+2025-11-25,Search - Brand,Brand - Phrase,1678,180,774.36,20
+2025-11-25,Search - Generic,Generic - Exact,5778,112,130.16,32
+2025-11-25,Search - Generic,Generic - Broad,7618,645,741.39,29
+2025-11-25,Display - Remarketing,Remarketing - Standard,7032,486,296.54,57
+2025-11-25,Display - Remarketing,Remarketing - Dynamic,7825,337,586.96,8
+2025-11-25,Shopping - Product Feed,Shopping - Top Sellers,2425,237,266.12,28
+2025-11-25,Shopping - Product Feed,Shopping - Long Tail,2130,185,181.65,31
+2025-11-26,Search - Brand,Brand - Exact,2029,185,399.92,1
+2025-11-26,Search - Brand,Brand - Phrase,8499,323,235.27,5
+2025-11-26,Search - Generic,Generic - Exact,5432,489,659.27,10
+2025-11-26,Search - Generic,Generic - Broad,5134,665,415.38,26
+2025-11-26,Display - Remarketing,Remarketing - Standard,4483,688,864.82,20
+2025-11-26,Display - Remarketing,Remarketing - Dynamic,3130,98,174.31,8
+2025-11-26,Shopping - Product Feed,Shopping - Top Sellers,5839,634,428.41,37
+2025-11-26,Shopping - Product Feed,Shopping - Long Tail,8479,336,896.69,52
+2025-11-27,Search - Brand,Brand - Exact,8999,577,427.12,64
+2025-11-27,Search - Brand,Brand - Phrase,1453,467,581.45,42
+2025-11-27,Search - Generic,Generic - Exact,1223,118,914.58,30
+2025-11-27,Search - Generic,Generic - Broad,1139,300,729.69,6
+2025-11-27,Display - Remarketing,Remarketing - Standard,3670,506,625.9,67
+2025-11-27,Display - Remarketing,Remarketing - Dynamic,5357,210,610.35,56
+2025-11-27,Shopping - Product Feed,Shopping - Top Sellers,8856,118,343.6,61
+2025-11-27,Shopping - Product Feed,Shopping - Long Tail,6260,353,817.69,14
+2025-11-28,Search - Brand,Brand - Exact,6203,446,288.04,64
+2025-11-28,Search - Brand,Brand - Phrase,7361,588,442.99,5
+2025-11-28,Search - Generic,Generic - Exact,5953,283,127.81,42
+2025-11-28,Search - Generic,Generic - Broad,7422,551,631.62,1
+2025-11-28,Display - Remarketing,Remarketing - Standard,8369,448,194.45,7
+2025-11-28,Display - Remarketing,Remarketing - Dynamic,6727,662,601.63,64
+2025-11-28,Shopping - Product Feed,Shopping - Top Sellers,1645,233,530.77,35
+2025-11-28,Shopping - Product Feed,Shopping - Long Tail,5519,473,132.93,63
+2025-11-29,Search - Brand,Brand - Exact,4720,187,532.28,40
+2025-11-29,Search - Brand,Brand - Phrase,7484,120,942.8,29
+2025-11-29,Search - Generic,Generic - Exact,2658,497,622.37,16
+2025-11-29,Search - Generic,Generic - Broad,3322,535,493.25,38
+2025-11-29,Display - Remarketing,Remarketing - Standard,5279,450,931.63,62
+2025-11-29,Display - Remarketing,Remarketing - Dynamic,4793,492,376.73,19
+2025-11-29,Shopping - Product Feed,Shopping - Top Sellers,3036,96,738.59,36
+2025-11-29,Shopping - Product Feed,Shopping - Long Tail,7598,373,268.47,65
+2025-11-30,Search - Brand,Brand - Exact,842,314,798.85,39
+2025-11-30,Search - Brand,Brand - Phrase,8822,177,520.88,58
+2025-11-30,Search - Generic,Generic - Exact,6454,365,370.81,70
+2025-11-30,Search - Generic,Generic - Broad,6072,218,551.77,31
+2025-11-30,Display - Remarketing,Remarketing - Standard,4626,445,315.9,6
+2025-11-30,Display - Remarketing,Remarketing - Dynamic,8549,415,939.23,50
+2025-11-30,Shopping - Product Feed,Shopping - Top Sellers,3292,532,137.41,5
+2025-11-30,Shopping - Product Feed,Shopping - Long Tail,6239,127,112.73,57
