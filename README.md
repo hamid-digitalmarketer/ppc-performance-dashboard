@@ -79,9 +79,14 @@ Tests cover column normalization, KPI math, campaign filters, date-range filters
 - Forecasts using simple time-series models
 - Scheduled email delivery of the report
 
+## Related projects
+
+- [ppc-waste-detector](https://github.com/hamid-digitalmarketer/ppc-waste-detector) — forensic detection of wasted ad spend and exclusion list generation
+- [conversion-tracking-doctor](https://github.com/hamid-digitalmarketer/conversion-tracking-doctor) — diagnostics and fixes for broken conversion tracking
+
 ## License
 
-MIT (add a `LICENSE` file before commercial use if required by your use case).
+MIT — see [LICENSE](LICENSE).
 
 ---
 
@@ -89,7 +94,7 @@ MIT (add a `LICENSE` file before commercial use if required by your use case).
 
 Digital Marketing | SEO | Performance Marketing | E-commerce | Web Development
 
-- Portfolio: [https://abouthamid.web.app/](https://abouthamid.web.app/)
+- Portfolio: [https://hamid-resume.web.app/](https://hamid-resume.web.app/)
 - LinkedIn: [https://www.linkedin.com/in/muhammad-hamid-digital-marketing/](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
 - WhatsApp: [https://wa.me/923167417135](https://wa.me/923167417135)
 
