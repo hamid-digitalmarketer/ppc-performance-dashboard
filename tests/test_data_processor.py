@@ -30,7 +30,7 @@ def test_normalize_lowercases_columns_and_parses_date(df):
     norm = normalize_dataframe(df)
     assert "campaign" in norm.columns
     assert "date" in norm.columns
-    assert norm["date"].dtype == "datetime64[ns]"
+    assert pd.api.types.is_datetime64_any_dtype(norm["date"])
     assert norm["spend"].dtype.kind == "f"
 
 
